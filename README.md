@@ -2,4 +2,4 @@
 University projects and homework
 
 [Advanced Programming Methods](https://github.com/iuliarevnic/APM)
-[Functional]
+[Logical and Functional Programming](https://github.com/iuliarevnic/Logical-and-Functional-Programming)
