@@ -6,3 +6,5 @@ University projects and homework
 [Logical and Functional Programming](https://github.com/iuliarevnic/Logical-and-Functional-Programming)
 
 [Databases](https://github.com/iuliarevnic/Databases)
+
+[Fundamentals of Programming](https://github.com/iuliarevnic/Fundamentals-of-Programming)
