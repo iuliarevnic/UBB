@@ -10,3 +10,5 @@ University projects and homework
 [Fundamentals of Programming](https://github.com/iuliarevnic/Fundamentals-of-Programming)
 
 [Graph Algorithms](https://github.com/iuliarevnic/Graph-Algorithms)
+
+[Data Structures and Algorithms](https://github.com/iuliarevnic/Data-Structures-and-Algorithms)
